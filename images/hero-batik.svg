@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#c8a77c"/><stop offset="1" stop-color="#eadcc5"/></linearGradient>
+ <pattern id="batik" width="90" height="90" patternUnits="userSpaceOnUse"><path d="M45 5 C60 25 60 65 45 85 C30 65 30 25 45 5Z M5 45 C25 30 65 30 85 45 C65 60 25 60 5 45Z" fill="none" stroke="#9a4934" stroke-width="3"/><circle cx="45" cy="45" r="9" fill="#b98548"/></pattern>
+ </defs>
+ <rect width="900" height="1100" fill="url(#bg)"/><rect width="900" height="1100" fill="url(#batik)" opacity=".24"/>
+ <circle cx="690" cy="210" r="150" fill="#f2e8d7" opacity=".5"/>
+ <path d="M205 1100 L260 410 Q300 310 450 300 Q600 310 640 410 L720 1100Z" fill="#253d35"/>
+ <path d="M260 410 Q340 470 450 460 Q560 470 640 410 L720 1100 L205 1100Z" fill="#8f3f2d"/>
+ <path d="M260 410 Q340 470 450 460 Q560 470 640 410 L720 1100 L205 1100Z" fill="url(#batik)" opacity=".85"/>
+ <path d="M390 315 L450 470 L510 315" fill="#e7d5b7" stroke="#5a3429" stroke-width="10"/>
+ <path d="M260 410 L150 560 L230 640 L340 490 M640 410 L750 560 L670 640 L560 490" fill="#253d35" stroke="#e5d3b6" stroke-width="12"/>
+ <path d="M355 330 Q450 390 545 330" fill="none" stroke="#d7b777" stroke-width="13"/>
+ <text x="450" y="1010" text-anchor="middle" fill="#f7e9d2" font-family="Georgia" font-size="34" letter-spacing="12">BATIKARA</text>
+</svg>

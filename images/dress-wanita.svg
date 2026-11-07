@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 760">
+<defs><pattern id="p" width="64" height="64" patternUnits="userSpaceOnUse"><path d="M32 4 C55 25 55 39 32 60 C9 39 9 25 32 4Z" fill="none" stroke="#e2c28c" stroke-width="3"/><path d="M4 32H60" stroke="#e2c28c" stroke-width="2"/></pattern></defs>
+<rect width="700" height="760" fill="#e8d9c8"/><circle cx="350" cy="340" r="245" fill="#f4ece1"/>
+<path d="M270 120 L330 100 L370 100 L430 120 L460 235 L420 265 L495 680 L205 680 L280 265 L240 235Z" fill="#8e4635"/>
+<path d="M270 120 L330 100 L370 100 L430 120 L460 235 L420 265 L495 680 L205 680 L280 265 L240 235Z" fill="url(#p)"/>
+<path d="M330 100 L350 155 L370 100" fill="#e9dfcf"/><path d="M280 265 Q350 300 420 265" fill="none" stroke="#e5c68d" stroke-width="8"/>
+<path d="M350 155 L350 680" stroke="#e5c68d" stroke-width="3"/>
+<text x="350" y="725" text-anchor="middle" font-family="Georgia" font-size="22" fill="#554c3f">DRESS SEKAR</text></svg>

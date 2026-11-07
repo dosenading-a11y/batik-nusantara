@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 760">
+<defs><pattern id="p" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M35 3 Q65 35 35 67 Q5 35 35 3Z" fill="none" stroke="#d9b77b" stroke-width="3"/><circle cx="35" cy="35" r="7" fill="#d9b77b"/></pattern></defs>
+<rect width="700" height="760" fill="#e9dfcf"/><circle cx="350" cy="340" r="250" fill="#f4eee4"/>
+<path d="M220 150 L300 105 L350 155 L400 105 L480 150 L575 245 L505 315 L465 270 L490 680 L210 680 L235 270 L195 315 L125 245Z" fill="#243e36"/>
+<path d="M220 150 L300 105 L350 155 L400 105 L480 150 L575 245 L505 315 L465 270 L490 680 L210 680 L235 270 L195 315 L125 245Z" fill="url(#p)"/>
+<path d="M300 105 L350 155 L400 105 L370 225 L330 225Z" fill="#e9dfcf"/><path d="M350 155 L350 680" stroke="#d7b77f" stroke-width="5"/>
+<g fill="#d7b77f"><circle cx="365" cy="280" r="5"/><circle cx="365" cy="340" r="5"/><circle cx="365" cy="400" r="5"/><circle cx="365" cy="460" r="5"/></g>
+<text x="350" y="725" text-anchor="middle" font-family="Georgia" font-size="22" fill="#554c3f">KEMEJA ARUNA</text></svg>

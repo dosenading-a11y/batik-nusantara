@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 760">
+<defs><pattern id="p" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M40 5 L52 28 L75 40 L52 52 L40 75 L28 52 L5 40 L28 28Z" fill="none" stroke="#cba96f" stroke-width="3"/><circle cx="40" cy="40" r="8" fill="#cba96f"/></pattern></defs>
+<rect width="700" height="760" fill="#dcd9cb"/><circle cx="350" cy="340" r="245" fill="#eeece3"/>
+<path d="M230 130 L305 95 L350 155 L395 95 L470 130 L565 260 L495 315 L455 265 L485 680 L215 680 L245 265 L205 315 L135 260Z" fill="#344c48"/>
+<path d="M230 130 L305 95 L350 155 L395 95 L470 130 L565 260 L495 315 L455 265 L485 680 L215 680 L245 265 L205 315 L135 260Z" fill="url(#p)"/>
+<path d="M305 95 L350 155 L395 95 L375 235 L325 235Z" fill="#dcd9cb"/><path d="M350 155 L350 680" stroke="#cba96f" stroke-width="5"/>
+<text x="350" y="725" text-anchor="middle" font-family="Georgia" font-size="22" fill="#554c3f">OUTER NAWASENA</text></svg>
